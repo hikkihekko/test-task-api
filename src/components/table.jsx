@@ -46,7 +46,7 @@ const StocksTable = () => {
 
   return (
     <div>
-      <h1>Displayed Stocks:</h1>
+      <h1>Stocks:</h1>
       <TableContainer component={Paper}>
       <Table sx={{ minWidth: 700 }} aria-label="customized table">
         <TableHead>
